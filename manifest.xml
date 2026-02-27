@@ -4,13 +4,13 @@
   xmlns:bt="http://schemas.microsoft.com/office/officeappbasictypes/1.0"
   xmlns:mailappor="http://schemas.microsoft.com/office/mailappversionoverrides/1.0" xsi:type="MailApp">
   <Id>1e7e38da-7ad6-429a-9c6f-81aa1b9c9344</Id>
-  <Version>1.0.0.0</Version>
+  <Version>1.0.0.1</Version>
   <ProviderName>Středisko společných činností AV ČR</ProviderName>
   <DefaultLocale>cs-CZ</DefaultLocale>
   <DisplayName DefaultValue="Vizitka"/>
   <Description DefaultValue="Vloží podpis s vizitkou do e-mailu."/>
-  <IconUrl DefaultValue="https://kadlman.github.io/DEV/assets/icon-32.png"/>
-  <HighResolutionIconUrl DefaultValue="https://kadlman.github.io/DEV/assets/icon-64.png"/>
+  <IconUrl DefaultValue="https://kadlman.github.io/DEV/assets/icon-64.png"/>
+  <HighResolutionIconUrl DefaultValue="https://kadlman.github.io/DEV/assets/icon-128.png"/>
   <SupportUrl DefaultValue="https://github.com/Kadlman/DEV"/>
   <AppDomains>
     <AppDomain>https://kadlman.github.io</AppDomain>
