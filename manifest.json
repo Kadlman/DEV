@@ -64,7 +64,7 @@
                     "id": "TaskPaneRuntime",
                     "type": "general",
                     "code": {
-                        "page": "https://officedev.github.io/Office-Add-in-samples/Samples/hello-world/outlook-hello-world/taskpane.html"
+                        "page": "https://kadlman.github.io/DEV/taskpane.html"
                     },
                     "lifetime": "short",
                     "actions": [
@@ -91,15 +91,15 @@
                                     "icons": [
                                         {
                                             "size": 16,
-                                            "url": "https://officedev.github.io/Office-Add-in-samples/Samples/hello-world/outlook-hello-world/assets/icon-16.png"
+                                            "url": "https://kadlman.github.io/DEV/assets/icon-16.png"
                                         },
                                         {
                                             "size": 32,
-                                            "url": "https://officedev.github.io/Office-Add-in-samples/Samples/hello-world/outlook-hello-world/assets/icon-32.png"
+                                            "url": "https://kadlman.github.io/DEV/assets/icon-32.png"
                                         },
                                         {
                                             "size": 80,
-                                            "url": "https://officedev.github.io/Office-Add-in-samples/Samples/hello-world/outlook-hello-world/assets/icon-80.png"
+                                            "url": "https://kadlman.github.io/DEV/assets/icon-80.png"
                                         }
                                     ],
                                     "controls": [
@@ -110,15 +110,15 @@
                                             "icons": [
                                                 {
                                                     "size": 16,
-                                                    "url": "https://officedev.github.io/Office-Add-in-samples/Samples/hello-world/outlook-hello-world/assets/icon-16.png"
+                                                    "url": "https://kadlman.github.io/DEV/assets/icon-16.png"
                                                 },
                                                 {
                                                     "size": 32,
-                                                    "url": "https://officedev.github.io/Office-Add-in-samples/Samples/hello-world/outlook-hello-world/assets/icon-32.png"
+                                                    "url": "https://kadlman.github.io/DEV/assets/icon-32.png"
                                                 },
                                                 {
                                                     "size": 80,
-                                                    "url": "https://officedev.github.io/Office-Add-in-samples/Samples/hello-world/outlook-hello-world/assets/icon-80.png"
+                                                    "url": "https://kadlman.github.io/DEV/assets/icon-80.png"
                                                 }
                                             ],
                                             "supertip": {
