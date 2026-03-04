@@ -4,7 +4,7 @@
   xmlns:bt="http://schemas.microsoft.com/office/officeappbasictypes/1.0"
   xmlns:mailappor="http://schemas.microsoft.com/office/mailappversionoverrides/1.0" xsi:type="MailApp">
   <Id>1e7e38da-7ad6-429a-9c6f-81aa1b9c9344</Id>
-  <Version>1.0.0.3</Version>
+  <Version>1.0.0.4</Version>
   <ProviderName>Středisko společných činností AV ČR</ProviderName>
   <DefaultLocale>cs-CZ</DefaultLocale>
   <DisplayName DefaultValue="Vizitka"/>
@@ -99,7 +99,6 @@
         <Scopes>
           <Scope>openid</Scope>
           <Scope>profile</Scope>
-          <Scope>access_as_user</Scope>
         </Scopes>
       </WebApplicationInfo>
     </VersionOverrides>
